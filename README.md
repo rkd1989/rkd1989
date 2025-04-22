@@ -1,13 +1,46 @@
-### 👋 Hi, I'm Rishabh Kavidayal
+# 👋 Hi, I'm Rishabh Kavidayal
 
-- 🧠 Full-stack engineer | MERN, Node.js, Docker, Firebase
-- 🔄 Ex-SAP | Now building open SaaS & AI tools
-- 🧪 Indie builder | Loves CI/CD, rapid prototyping & automation
+I'm a full-stack engineer and indie builder, passionate about solving real-world problems with clean, scalable software.  
+With 10+ years of experience — from SAP systems to SaaS startups — I now focus on building AI-powered tools, microservices, and cloud-ready applications.
 
-### 🔥 Highlight Projects
+---
 
-- ⚙️ [CI/CD Templates](https://github.com/rkd1989/ci-cd-templates) — GitHub Actions starter for modern projects
-- 🧪 [Jest Testing Starter](https://github.com/rkd1989/jest-testing-starter) — Unit testing boilerplate
+## 🔧 Tech Stack
 
-### 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/rishabhkavidayal/) · [GitHub](https://github.com/rkd1989) · [Portfolio](https://rishabh.dev)
+**Languages:** JavaScript, TypeScript, Node.js, Python, Java  
+**Frontend:** React, Angular, Tailwind, Bootstrap  
+**Backend:** Express.js, MongoDB, Kafka, Firebase, Redis  
+**DevOps:** Docker, GitHub Actions, CI/CD, Vercel, Firebase Hosting  
+**AI/LLM:** OpenAI API, GPT automation, AI email outreach
+
+---
+
+## 🚀 Projects
+
+- [**AI Outreach Assistant**](https://github.com/rkd1989/email-assistant) – GPT-powered email generation and Gmail sending SaaS
+- [**Node Auth Starter**](https://github.com/rkd1989/node-auth-starter) – Minimal login/register API using Express + MongoDB
+- [**CI/CD Templates**](https://github.com/rkd1989/ci-cd-templates) – GitHub Actions workflows for Node, Docker & production pipelines
+- [**Kafka NodeJS**](https://github.com/rkd1989/kafka-nodejs) – Event-driven system demo using Kafka producers & consumers
+- [**Express Test Service**](https://github.com/rkd1989/express-test-service) – Lightweight service for backend prototyping
+- [**Apparel Classifier**](https://github.com/rkd1989/classifyApparel) – ML-based image classifier for fashion categories
+
+---
+
+## 🧭 Goals
+
+- Transition to Staff/Senior Engineer roles in product or open-source companies  
+- Build & grow impactful SaaS tools from scratch  
+- Contribute more actively to open-source and engineering leadership communities
+
+---
+
+## 📫 Connect With Me
+
+- [GitHub](https://github.com/rkd1989)
+- [LinkedIn](https://www.linkedin.com/in/rishabhkavidyal/)
+- [Personal Site (soon)](https://rishabh.dev)
+
+> “Build fast. Iterate faster. Ship what matters.”
+
+---
+
