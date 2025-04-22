@@ -10,4 +10,4 @@
 - 🧪 [Jest Testing Starter](https://github.com/rkd1989/jest-testing-starter) — Unit testing boilerplate
 
 ### 📫 Connect with Me
-[LinkedIn](https://linkedin.com/in/...) · [GitHub](https://github.com/rkd1989) · [Portfolio](https://rishabh.dev)
+[LinkedIn](https://www.linkedin.com/in/rishabhkavidayal/) · [GitHub](https://github.com/rkd1989) · [Portfolio](https://rishabh.dev)
