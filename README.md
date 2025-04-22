@@ -28,8 +28,6 @@ With 10+ years of experience — from SAP systems to SaaS  — I now focus on bu
 
 ## 🧭 Goals
 
-- Transition to Staff/Senior Engineer roles in product or open-source companies  
-- Build & grow impactful SaaS tools from scratch  
 - Contribute more actively to open-source and engineering leadership communities
 
 ---
