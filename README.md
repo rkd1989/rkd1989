@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 Hi, I'm Rishabh Kavidayal
 
-<!--
-**rkd1989/rkd1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧠 Full-stack engineer | MERN, Node.js, Docker, Firebase
+- 🔄 Ex-SAP | Now building open SaaS & AI tools
+- 🧪 Indie builder | Loves CI/CD, rapid prototyping & automation
 
-Here are some ideas to get you started:
+### 🔥 Highlight Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ [CI/CD Templates](https://github.com/rkd1989/ci-cd-templates) — GitHub Actions starter for modern projects
+- 🧪 [Jest Testing Starter](https://github.com/rkd1989/jest-testing-starter) — Unit testing boilerplate
+
+### 📫 Connect with Me
+[LinkedIn](https://linkedin.com/in/...) · [GitHub](https://github.com/rkd1989) · [Portfolio](https://rishabh.dev)
