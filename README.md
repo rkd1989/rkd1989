@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rishabh Kavidayal
+# 👋 Hi
 
 I'm a full-stack engineer and indie builder, passionate about solving real-world problems with clean, scalable software.  
 With 10+ years of experience — from SAP systems to SaaS  — I now focus on building AI-powered tools, microservices, and cloud-ready applications.
