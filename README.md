@@ -35,7 +35,7 @@ With 10+ years of experience — from SAP systems to SaaS  — I now focus on bu
 ## 📫 Connect With Me
 
 - [GitHub](https://github.com/rkd1989)
-- [LinkedIn](https://www.linkedin.com/in/rishabhkavidyal/)
+- [LinkedIn](https://bit.ly/4d4MSUz)
 - [Personal Site (soon)](https://rishabh.dev)
 
 > “Build fast. Iterate faster. Ship what matters.”
